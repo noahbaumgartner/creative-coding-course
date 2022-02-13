@@ -1,7 +1,6 @@
 const canvasSketch = require('canvas-sketch');
 const math = require('canvas-sketch-util/math');
 const random = require('canvas-sketch-util/random');
-const color = require('canvas-sketch-util/random');
 
 const settings = {
     dimensions: [1080, 1080]
