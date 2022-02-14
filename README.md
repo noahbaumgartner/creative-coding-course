@@ -1,5 +1,5 @@
 # Creative Coding - Course Sketches
-This Repository contains all sketches from the course _Creative Coding: Making Visuals with JavaScript_ (https://www.domestika.org/en/courses/2729-creative-coding-making-visuals-with-javascript).
+This Repository contains all sketches from the course _Creative Coding: Making Visuals with JavaScript_ (https://www.domestika.org/en/courses/2729-creative-coding-making-visuals-with-javascript). To set the repository up. Download it and run _npm install_.
 
 ## Sketch 01 [E2]
 <div style="float: left;">
